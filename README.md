@@ -1,21 +1,14 @@
-#### Hello!
-I'm a highschooler who is looking to go into programming once I graduate.<br>
-I mostly work in Rust and Typescript though I also use Java for school and Minecraft modding.
+#### Hello, I'm Madeline!
+
+- I'm 17 years old
+- My pronouns are she / her
+
+
 ### Current big projects: 
   - [Quartz](https://github.com/rusty-quartz/quartz)
   - [Modolumia](https://github.com/maddymakesgames/modolumia)
 
-<!--
-**maddymakesgames/maddymakesgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maddymakesgames&count_private=true&show_icons=true&bg_color=262922&title_color=7cf221&text_color=f9f3d8&icon_color=00ddf0&locale=en">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddymakesgames&layout=compact">
+</p>
