@@ -1,6 +1,6 @@
 #### Hello, I'm Madeline!
 
-- I'm 17 years old
+- I'm 18 years old
 - My pronouns are she / her
 
 
