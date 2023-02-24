@@ -1,7 +1,9 @@
 # Hi I'm Madeline (she/her)
 I'm transfem and I'm currently studying computer science in college.
 
-## Exploits
+## Projects
+Note: 
+A lot of these are no longer maintained, though I generally am good about responding to issues even on dead projects
 - Rust
   - [Quartz](https://github.com/Rusty-Quartz/Quartz)
   - [Petra](https://github.com/maddymakesgames/Petra)
