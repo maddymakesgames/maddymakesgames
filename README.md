@@ -1,5 +1,5 @@
-# Hi I'm Madeline (she/her)
-I'm transfem and I'm currently studying computer science in college.
+# Hi I'm Madeline 
+I'm currently studying computer science in college.
 
 ## Projects
 Note: 
@@ -18,7 +18,7 @@ A lot of these are no longer maintained, though I generally am good about respon
   - [minesweeper](https://github.com/maddymakesgames/minesweeper)
   - [Yui](https://github.com/maddymakesgames/Yui)
 - Java
-  - Minecraft Research
-    - [Blog post explaining minecraft biome placement](https://cohost.org/mads/post/1012502-minecraft-biome-gen)
+  - [data-generator](https://github.com/Rusty-Quartz/data-generator)
+  - [dice-game](https://github.com/maddymakesgames/DiceGame)
 - C
   - [Maze-Solver](https://github.com/maddymakesgames/Maze-Solver)
