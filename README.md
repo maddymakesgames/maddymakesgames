@@ -3,7 +3,7 @@ I'm currently studying computer science in college.
 
 ## Projects
 Note: 
-A lot of these are no longer maintained, though I generally am good about responding to issues even on dead projects
+A lot of these are no longer maintained, though I try to be good about responding to issues even on dead projects
 - Rust
   - [celeste_rs](https://github.com/maddymakesgames/celeste_rs)
   - [Quartz](https://github.com/Rusty-Quartz/Quartz)
