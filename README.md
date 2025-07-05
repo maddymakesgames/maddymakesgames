@@ -24,3 +24,5 @@ A lot of these are no longer maintained, though I try to be good about respondin
   - [dice-game](https://github.com/maddymakesgames/DiceGame)
 - C
   - [Maze-Solver](https://github.com/maddymakesgames/Maze-Solver)
+- Python
+  - [Group-Ten-Group-Smile](https://github.com/ScreamsInDatabase-Group-10/Group-Ten-Group-Smile) - Class project for my databases class
