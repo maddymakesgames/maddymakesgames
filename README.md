@@ -5,6 +5,7 @@ I'm currently studying computer science in college.
 Note: 
 A lot of these are no longer maintained, though I generally am good about responding to issues even on dead projects
 - Rust
+  - [celeste_rs](https://github.com/maddymakesgames/celeste_rs)
   - [Quartz](https://github.com/Rusty-Quartz/Quartz)
   - [Petra](https://github.com/maddymakesgames/Petra)
   - [slashy](https://github.com/maddymakesgames/slashy)
