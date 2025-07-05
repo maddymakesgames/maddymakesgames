@@ -19,6 +19,7 @@ A lot of these are no longer maintained, though I generally am good about respon
   - [minesweeper](https://github.com/maddymakesgames/minesweeper)
   - [Yui](https://github.com/maddymakesgames/Yui)
 - Java
+  - [jerpy](https://github.com/plc-queers-and-owen/jerpy)
   - [data-generator](https://github.com/Rusty-Quartz/data-generator)
   - [dice-game](https://github.com/maddymakesgames/DiceGame)
 - C
